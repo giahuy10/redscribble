@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<form>
+  <fieldset>
+    <field name="id" type="text" readonly="true" class="readonly" default="0" description="JGLOBAL_FIELD_ID_DESC"/>
+    <field name="ordering"/>
+    <field name="state" default="1" type="list" label="JSTATUS" description="JFIELD_PUBLISHED_DESC" class="inputbox" size="1">
+      <option value="1">JPUBLISHED</option>
+      <option value="0">JUNPUBLISHED</option>
+      <option value="2">JARCHIVED</option>
+      <option value="-2">JTRASHED</option>
+    </field>
+    <field name="checked_out" type="hidden" filter="unset"/>
+    <field name="checked_out_time" default="0000-00-00 00:00:00" type="hidden" filter="unset"/>
+    <field name="created_by" type="createdby" default="0" label="COM_REDSCRIBBLE_FORM_LBL_DOCUMENT_CREATED_BY" description="COM_REDSCRIBBLE_FORM_DESC_DOCUMENT_CREATED_BY" hidden="true" hint="COM_REDSCRIBBLE_FORM_LBL_DOCUMENT_CREATED_BY"/>
+    <field name="modified_by" type="modifiedby" default="0" label="COM_REDSCRIBBLE_FORM_LBL_DOCUMENT_MODIFIED_BY" description="COM_REDSCRIBBLE_FORM_DESC_DOCUMENT_MODIFIED_BY" hidden="true" hint="COM_REDSCRIBBLE_FORM_LBL_DOCUMENT_MODIFIED_BY"/>
+    <field name="client" type="sql" query="SELECT id, client_name FROM #__redscribble_clients WHERE state = 1" key_field="id" value_field="client_name" required="true" label="COM_REDSCRIBBLE_FORM_LBL_DOCUMENT_CLIENT" description="COM_REDSCRIBBLE_FORM_DESC_DOCUMENT_CLIENT" hint="COM_REDSCRIBBLE_FORM_LBL_DOCUMENT_CLIENT"/>
+    <field name="document_name" type="text" required="true" label="COM_REDSCRIBBLE_FORM_LBL_DOCUMENT_DOCUMENT_NAME" description="COM_REDSCRIBBLE_FORM_DESC_DOCUMENT_DOCUMENT_NAME" hint="COM_REDSCRIBBLE_FORM_LBL_DOCUMENT_DOCUMENT_NAME"/>
+	
+    <field name="file" type="file" label="COM_REDSCRIBBLE_FORM_LBL_DOCUMENT_FILE" description="COM_REDSCRIBBLE_FORM_DESC_DOCUMENT_FILE" hint="COM_REDSCRIBBLE_FORM_LBL_DOCUMENT_FILE"/>
+	
+    <field name="version_note" type="text" label="JGLOBAL_FIELD_VERSION_NOTE_LABEL" description="JGLOBAL_FIELD_VERSION_NOTE_DESC" class="inputbox" size="45" labelclass="control-label"/>
+  </fieldset>
+  <fieldset name="accesscontrol">
+    <field name="asset_id" type="hidden" filter="unset"/>
+    <field name="rules" type="rules" label="JFIELD_RULES_LABEL" translate_label="false" filter="rules" validate="rules" class="inputbox" component="com_redscribble" section="document"/>
+  </fieldset>
+</form>

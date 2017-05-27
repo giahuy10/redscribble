@@ -1,0 +1,1706 @@
+
+<html xmlns:x="urn:schemas-microsoft-com:office:excel">
+<head>
+    <title></title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <style>
+        body {
+            font-family: Arial Unicode MS, Arial;
+        }
+
+        .thRows {
+            border-right: 1px solid white;
+            background-color: green;
+            color: white;
+            font-weight: bold;
+        }
+
+        .tdRows {
+            background-color: #DFF3FB;
+            border-right: 1px solid white;
+            border-bottom: 1px solid white;
+        }
+    </style>
+</head>
+<body>
+    <table>
+        <tr height="60">
+            <td colspan="2" align="center"><img width="250" src="http://www.vietcombank.com.vn/images/Logo_Slogan2.jpg" /></td>
+            <td colspan="3" style="font-weight: bold; font-size: 14pt; text-align: center; vertical-align: middle">SAO K&#202; T&#192;I KHOẢN</td>
+        </tr>
+        <tr>
+            <td colspan="2" align="left"></td>
+            <td colspan="3" align="center">Ng&#224;y thực hiện: 04/10/2016</td>
+        </tr>
+        <tr>
+            <td colspan="1" align="left">Chủ t&#224;i khoản:</td>
+            <td colspan="4" align="left"></td>
+        </tr>
+        <tr>
+            <td colspan="1" align="left">Số t&#224;i khoản:</td>
+            <td colspan="4" align="left">0541000180025</td>
+        </tr>
+        <tr>
+            <td colspan="1" align="left">Địa chỉ:</td>
+            <td colspan="4" align="left"></td>
+        </tr>
+        <tr>
+            <td colspan="1" align="left">CIF:</td>
+            <td colspan="4" align="left">5585757</td>
+        </tr>
+        <tr>
+            <td colspan="1" align="left">Loại tiền tệ:</td>
+            <td colspan="4" align="left">VND</td>
+        </tr>
+        <tr>
+            <td colspan="5" align="left">Từ: 01/01/2016  đến: 04/10/2016 </td>
+        </tr>
+        <tr>
+            <td colspan="5">&nbsp;</td>
+        </tr>
+        <tr>
+            <td colspan="1" align="center">Số dư đầu kỳ</td>
+            <td colspan="4" align="left">3,834,929 VND</td>
+        </tr>
+
+        <tr>
+            <td colspan="1" align="center">Số dư cuối kỳ</td>
+            <td colspan="4" align="left">2,225,600 VND</td>
+        </tr>
+        <tr>
+            <td colspan="5">&nbsp;</td>
+        </tr>
+        <tr>
+            <th class="thRows" align="center">Ng&#224;y giao dịch</th>
+            <th class="thRows" align="center">Số tham chiếu</th>
+            <th class="thRows" align="center">Thay đổi</th>
+            <th class="thRows" align="center">Số tiền</th>
+            <th class="thRows" align="center">M&#244; tả</th>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">04/10/2016</td>
+            <td class="tdRows" align="center">VNCN - 0071893</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">4,011,000</td>
+            <td class="tdRows" align="left">IBVCB.0410160618034001.Eddy gui Bac</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">04/10/2016</td>
+            <td class="tdRows" align="center">5D37 - 0006748</td>
+                <td class="tdRows" align="center">+</td>
+                <td class="tdRows" align="right">4,000,527</td>
+            <td class="tdRows" align="left">/Ref:P281475013462068{//}/Ref:P281475013462068{//}Freelancer Technology Pty Limited paymen t  4011000 D.Vi CHUYEN:Freelancer Technology Pty Limited Level 20 680 George Street Sydney Nsw AU</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">03/10/2016</td>
+            <td class="tdRows" align="center">5757 - 0914206</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">1,003,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20161003.122306.98100001.9704366805585757022.TID:00001854.SEQ:425689</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">30/09/2016</td>
+            <td class="tdRows" align="center">VNMS - 0973314</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">200,000</td>
+            <td class="tdRows" align="left">TOP-UP PHONE 01674089690. ACCOUNT 0541000180025. PROVIDER MSETOP</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">29/09/2016</td>
+            <td class="tdRows" align="center">VNMB - 1021685</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">11,000</td>
+            <td class="tdRows" align="left">THU PHI DICH VU VCB MOBILE BANKING THANG 08/2016. SDT: 01674089690. SO TIEN 11000 VND Mobile Banking</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">29/09/2016</td>
+            <td class="tdRows" align="center">5757 - 0309028</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">153,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160929.123211.98100001.9704366805585757022.TID:14600003.SEQ:412420</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">29/09/2016</td>
+            <td class="tdRows" align="center">5757 - 0355519</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,003,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160929.175553.98100001.9704366805585757022.TID:00260001.SEQ:092065</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">29/09/2016</td>
+            <td class="tdRows" align="center">5D37 - 0006846</td>
+                <td class="tdRows" align="center">+</td>
+                <td class="tdRows" align="right">5,399,357</td>
+            <td class="tdRows" align="left">/Ref:P281475013254736{//}/Ref:P281475013254736{//}Freelancer Technology Pty Limited paymen t  4011000 D.Vi CHUYEN:Freelancer Technology Pty Limited Level 20 680 George Street Sydney Nsw AU</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">25/09/2016</td>
+            <td class="tdRows" align="center">5757 - 0808656</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,003,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160925.123421.98100001.9704366805585757022.TID:22000100.SEQ:371381</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">24/09/2016</td>
+            <td class="tdRows" align="center">F948 - 0119903</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">4,356,000</td>
+            <td class="tdRows" align="left">POS:00000000.119903.20160923.220458.4283105585757021   .VISA-DEBIT-GATEWAY  .0.000000.0000</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">22/09/2016</td>
+            <td class="tdRows" align="center">4593 - 0007313</td>
+                <td class="tdRows" align="center">+</td>
+                <td class="tdRows" align="right">6,498,772</td>
+            <td class="tdRows" align="left">/Ref:P281475012948446{//}/Ref:P281475012948446{//}Freelancer Technology Pty Limited  payme nt  4011000 D.Vi CHUYEN:Freelancer Technology Pty Limited Level 20 680 George Street Sydney Nsw AU</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">19/09/2016</td>
+            <td class="tdRows" align="center">5757 - 0932000</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,003,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160919.120652.98100001.9704366805585757022.TID:12900002.SEQ:298009</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">18/09/2016</td>
+            <td class="tdRows" align="center">FEE054 - 0005585</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">5,000</td>
+            <td class="tdRows" align="left">Thu phi quan ly the Visa Debit thang 09-2016, No:4283...7021</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">17/09/2016</td>
+            <td class="tdRows" align="center">Z540 - 0206277</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,001,100</td>
+            <td class="tdRows" align="left">ATM.CWD.20160917.090702.04900015.9704366805585757022.TID:04900015.SEQ:206277</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">17/09/2016</td>
+            <td class="tdRows" align="center">VNMS - 0876201</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">200,000</td>
+            <td class="tdRows" align="left">TOP-UP PHONE 01674089690. ACCOUNT 0541000180025. PROVIDER MSETOP</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">16/09/2016</td>
+            <td class="tdRows" align="center">D297 - 0006800</td>
+                <td class="tdRows" align="center">+</td>
+                <td class="tdRows" align="right">2,887,009</td>
+            <td class="tdRows" align="left">/Ref:P281475012709086{//}/Ref:P281475012709086{//}Freelancer Technology Pty Limited  payme nt  4011000 D.Vi CHUYEN:Freelancer Technology Pty Limited Level 20 680 George Street Sydney Nsw AU</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">13/09/2016</td>
+            <td class="tdRows" align="center">2969 - 0003556</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">1,001,100</td>
+            <td class="tdRows" align="left">ATM.CWD.20160913.095732.00100014.9704366805585757022.TID:00100014.SEQ:003556</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">12/09/2016</td>
+            <td class="tdRows" align="center">5757 - 0909669</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,003,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160912.180007.98100001.9704366805585757022.TID:12900002.SEQ:984717</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">12/09/2016</td>
+            <td class="tdRows" align="center">0105 - 0007424</td>
+                <td class="tdRows" align="center">+</td>
+                <td class="tdRows" align="right">6,078,221</td>
+            <td class="tdRows" align="left">/Ref:P281475012509535{//}/Ref:P281475012509535{//}Freelancer Technology Pty Limited  payme nt  4011000 D.Vi CHUYEN:Freelancer Technology Pty Limited Level 20 680 George Street Sydney Nsw AU</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">12/09/2016</td>
+            <td class="tdRows" align="center">5757 - 0909769</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,003,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160912.180029.98100001.9704366805585757022.TID:12900002.SEQ:519523</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">10/09/2016</td>
+            <td class="tdRows" align="center">VSMS - 0106235</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">8,800</td>
+            <td class="tdRows" align="left">THU PHI DICH VU SMS CHU DONG THANG 08/2016. SDT: 01674089690. So tien 8800 VND</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">08/09/2016</td>
+            <td class="tdRows" align="center">E817 - 0005187</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,001,100</td>
+            <td class="tdRows" align="left">ATM.CWD.20160908.130958.04900002.9704366805585757022.TID:04900002.SEQ:005187</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">06/09/2016</td>
+            <td class="tdRows" align="center">8339 - 0005221</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">501,100</td>
+            <td class="tdRows" align="left">ATM.CWD.20160906.121909.00700104.9704366805585757022.TID:00700104.SEQ:005221</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">06/09/2016</td>
+            <td class="tdRows" align="center">8339 - 0005439</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,001,100</td>
+            <td class="tdRows" align="left">ATM.CWD.20160906.183025.00700104.9704366805585757022.TID:00700104.SEQ:005439</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">06/09/2016</td>
+            <td class="tdRows" align="center">F948 - 0669037</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">1,807,800</td>
+            <td class="tdRows" align="left">POS:00000000.669037.20160906.005550.4283105585757021   .VISA-DEBIT-GATEWAY  .0.000000.0000</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">05/09/2016</td>
+            <td class="tdRows" align="center">4H69 - 0006748</td>
+                <td class="tdRows" align="center">+</td>
+                <td class="tdRows" align="right">6,486,401</td>
+            <td class="tdRows" align="left">/Ref:P281475012235428{//}/Ref:P281475012235428{//}Freelancer Technology Pty Limited  payme nt  4011000 D.Vi CHUYEN:Freelancer Technology Pty Limited Level 20 680 George Street Sydney Nsw AU</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">04/09/2016</td>
+            <td class="tdRows" align="center">6727 - 0080439</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">1,001,100</td>
+            <td class="tdRows" align="left">ATM.CWD.20160904.175636.00700105.9704366805585757022.TID:00700105.SEQ:080439</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">03/09/2016</td>
+            <td class="tdRows" align="center">5757 - 0315811</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,003,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160903.163739.98100001.9704366805585757022.TID:00998046.SEQ:042583</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">03/09/2016</td>
+            <td class="tdRows" align="center">VNMS - 0789940</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">100,000</td>
+            <td class="tdRows" align="left">TOP-UP PHONE 01674089690. ACCOUNT 0541000180025. PROVIDER MSETOP</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">01/09/2016</td>
+            <td class="tdRows" align="center">5757 - 0034417</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,003,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160901.183938.98100001.9704366805585757022.TID:03700541.SEQ:753463</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">01/09/2016</td>
+            <td class="tdRows" align="center">5757 - 0062138</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,003,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160901.205108.98100001.9704366805585757022.TID:00003120.SEQ:488292</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">31/08/2016</td>
+            <td class="tdRows" align="center">VNMS - 0759564</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">100,000</td>
+            <td class="tdRows" align="left">TOP-UP PHONE 01674089690. ACCOUNT 0541000180025. PROVIDER MSETOP</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">31/08/2016</td>
+            <td class="tdRows" align="center">VNMB - 1019292</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">11,000</td>
+            <td class="tdRows" align="left">THU PHI DICH VU VCB MOBILE BANKING THANG 07/2016. SDT: 01674089690. SO TIEN 11000 VND Mobile Banking</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">30/08/2016</td>
+            <td class="tdRows" align="center">F948 - 0481543</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">1,807,800</td>
+            <td class="tdRows" align="left">POS:00000000.481543.20160830.114327.4283105585757021   .VISA-DEBIT-GATEWAY  .0.000000.0000</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">29/08/2016</td>
+            <td class="tdRows" align="center">D297 - 0007148</td>
+                <td class="tdRows" align="center">+</td>
+                <td class="tdRows" align="right">8,684,595</td>
+            <td class="tdRows" align="left">/Ref:P281475011917145{//}/Ref:P281475011917145{//}Freelancer Technology Pty Limited  payme nt  4011000 D.Vi CHUYEN:Freelancer Technology Pty Limited Level 20 680 George Street Sydney Nsw AU</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">29/08/2016</td>
+            <td class="tdRows" align="center">P558 - 0419203</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">1,001,100</td>
+            <td class="tdRows" align="left">ATM.CWD.20160829.173650.06100006.9704366805585757022.TID:06100006.SEQ:419203</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">27/08/2016</td>
+            <td class="tdRows" align="center">5757 - 0147122</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,003,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160826.205440.98100001.9704366805585757022.TID:00030002.SEQ:230401</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">26/08/2016</td>
+            <td class="tdRows" align="center">VNCK - 0689048</td>
+                <td class="tdRows" align="center">+</td>
+                <td class="tdRows" align="right">830,000</td>
+            <td class="tdRows" align="left">IBVCB.2608160420141001.Thanh toan dat coc thue nha. Thanks!</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">25/08/2016</td>
+            <td class="tdRows" align="center">J633 - 0008085</td>
+                <td class="tdRows" align="center">+</td>
+                <td class="tdRows" align="right">1,000,000</td>
+            <td class="tdRows" align="left">Sender:79310001.DD:250816.SHGD:10000418.BO:NGUYEN VAN TRUONG.TRUONG GUI</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">25/08/2016</td>
+            <td class="tdRows" align="center">0595 - 0007580</td>
+                <td class="tdRows" align="center">+</td>
+                <td class="tdRows" align="right">2,614,286</td>
+            <td class="tdRows" align="left">/Ref:P281475011802342{//}/Ref:P281475011802342{//}Freelancer Technology Pty Limited  payme nt  4011000 D.Vi CHUYEN:Freelancer Technology Pty Limited Level 20 680 George Street Sydney Nsw AU</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">25/08/2016</td>
+            <td class="tdRows" align="center">DD4400 - 0211727</td>
+                <td class="tdRows" align="center">+</td>
+                <td class="tdRows" align="right">1,283</td>
+            <td class="tdRows" align="left">Tra lai tien gui/Interest paid</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">25/08/2016</td>
+            <td class="tdRows" align="center">5757 - 0956173</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">1,003,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160825.170721.98100001.9704366805585757022.TID:00133084.SEQ:686666</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">22/08/2016</td>
+            <td class="tdRows" align="center">5757 - 0538298</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">1,003,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160822.131830.98100001.9704366805585757022.TID:00000000.SEQ:216882</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">20/08/2016</td>
+            <td class="tdRows" align="center">FEE054 - 0000080</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">5,000</td>
+            <td class="tdRows" align="left">Thu phi quan ly the Visa Debit thang 08-2016, No:4283...7021</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">17/08/2016</td>
+            <td class="tdRows" align="center">J633 - 0008680</td>
+                <td class="tdRows" align="center">+</td>
+                <td class="tdRows" align="right">1,000,000</td>
+            <td class="tdRows" align="left">Sender:79310001.DD:170816.SHGD:10002158.BO:NGUYEN VAN TRUONG.ANH TRUONG GUI</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">16/08/2016</td>
+            <td class="tdRows" align="center">5757 - 0698528</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">303,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160816.083604.98100001.9704366805585757022.TID:00368035.SEQ:079035</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">15/08/2016</td>
+            <td class="tdRows" align="center">VNCK - 0765505</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">168,300</td>
+            <td class="tdRows" align="left">IBVCB.1508160134742001.gia han hosting mattroiviet.org</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">14/08/2016</td>
+            <td class="tdRows" align="center">VSMS - 0134474</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">8,800</td>
+            <td class="tdRows" align="left">THU PHI DICH VU SMS CHU DONG THANG 07/2016. SDT: 01674089690. So tien 8800 VND</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">11/08/2016</td>
+            <td class="tdRows" align="center">F948 - 0007139</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">123,283</td>
+            <td class="tdRows" align="left">POS:80225328.007139.20160810.221150.4283105585757021   .VISA-DEBIT-GATEWAY  .0.000000.0000</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">11/08/2016</td>
+            <td class="tdRows" align="center">F948 - 0017176</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">123,283</td>
+            <td class="tdRows" align="left">POS:80224929.017176.20160811.120033.4283105585757021   .VISA-DEBIT-GATEWAY  .0.000000.0000</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">09/08/2016</td>
+            <td class="tdRows" align="center">VNCN - 0068418</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">10,011,000</td>
+            <td class="tdRows" align="left">IBVCB.0908160124216001.huy gui cuong</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">04/08/2016</td>
+            <td class="tdRows" align="center">VNCK - 0942069</td>
+                <td class="tdRows" align="center">+</td>
+                <td class="tdRows" align="right">3,000,000</td>
+            <td class="tdRows" align="left">IBVCB.0408160037261001.Thanh toan mot phan khoan dat coc</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">04/08/2016</td>
+            <td class="tdRows" align="center">0105 - 0006841</td>
+                <td class="tdRows" align="center">+</td>
+                <td class="tdRows" align="right">4,956,271</td>
+            <td class="tdRows" align="left">/Ref:P281475010994442{//}/Ref:P281475010994442{//}Freelancer Technology Pty Limited  payme nt  4011000 D.Vi CHUYEN:Freelancer Technology Pty Limited Level 20 680 George Street Sydney Nsw AU</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">04/08/2016</td>
+            <td class="tdRows" align="center">5757 - 0690691</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,003,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160804.120558.98100001.9704366805585757022.TID:12900002.SEQ:631802</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">04/08/2016</td>
+            <td class="tdRows" align="center">5757 - 0650202</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">1,003,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160803.222928.98100001.9704366805585757022.TID:12800023.SEQ:562782</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">01/08/2016</td>
+            <td class="tdRows" align="center">VNMS - 0556390</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">200,000</td>
+            <td class="tdRows" align="left">TOP-UP PHONE 01674089690. ACCOUNT 0541000180025. PROVIDER MSETOP</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">31/07/2016</td>
+            <td class="tdRows" align="center">VNMS - 0553531</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">100,000</td>
+            <td class="tdRows" align="left">TOP-UP PHONE 01674089690. ACCOUNT 0541000180025. PROVIDER MSETOP</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">30/07/2016</td>
+            <td class="tdRows" align="center">2969 - 0008833</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">5,001,100</td>
+            <td class="tdRows" align="left">ATM.CWD.20160730.164809.00100014.9704366805585757022.TID:00100014.SEQ:008833</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">30/07/2016</td>
+            <td class="tdRows" align="center">5757 - 0015193</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,003,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160730.123153.98100001.9704366805585757022.TID:03700541.SEQ:288234</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">30/07/2016</td>
+            <td class="tdRows" align="center">2969 - 0008831</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">5,001,100</td>
+            <td class="tdRows" align="left">ATM.CWD.20160730.164649.00100014.9704366805585757022.TID:00100014.SEQ:008831</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">29/07/2016</td>
+            <td class="tdRows" align="center">VNCK - 0487587</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">1,003,300</td>
+            <td class="tdRows" align="left">IBVCB.2907160781924001.huy gui Chien</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">28/07/2016</td>
+            <td class="tdRows" align="center">0595 - 0008077</td>
+                <td class="tdRows" align="center">+</td>
+                <td class="tdRows" align="right">10,000,000</td>
+            <td class="tdRows" align="left">/Ref:P344826{//}/Ref:P344826{//}Gui honey yeu dau D.Vi CHUYEN:NGUYEN THI THU HA</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">27/07/2016</td>
+            <td class="tdRows" align="center">5757 - 0540270</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,003,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160726.203133.98100001.9704366805585757022.TID:80002001.SEQ:653261</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">26/07/2016</td>
+            <td class="tdRows" align="center">J633 - 0010861</td>
+                <td class="tdRows" align="center">+</td>
+                <td class="tdRows" align="right">32,700</td>
+            <td class="tdRows" align="left">Sender:01201001.DD:260716.SHGD:10003326.BO:CTTNHHMTV C.TIENTOANCAU VIETINBANK.KIEU HOI2016 0725_EPT_352554281475009346612</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">25/07/2016</td>
+            <td class="tdRows" align="center">VNMB - 1832092</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">11,000</td>
+            <td class="tdRows" align="left">Thu phi su dung dich vu VCB Mobile Banking thang 6-2016.So tien: 11000 VND.SDT: 0167408969</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">25/07/2016</td>
+            <td class="tdRows" align="center">DD4400 - 0277308</td>
+                <td class="tdRows" align="center">+</td>
+                <td class="tdRows" align="right">2,214</td>
+            <td class="tdRows" align="left">Tra lai tien gui/Interest paid</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">23/07/2016</td>
+            <td class="tdRows" align="center">VSMS - 0117218</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">8,800</td>
+            <td class="tdRows" align="left">THU PHI DICH VU SMS CHU DONG THANG 06/2016. SDT: 01674089690. So tien 8800 VND</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">22/07/2016</td>
+            <td class="tdRows" align="center">T243 - 0000534</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,001,100</td>
+            <td class="tdRows" align="left">ATM.CWD.20160722.132820.05400009.9704366805585757022.TID:05400009.SEQ:000534</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">19/07/2016</td>
+            <td class="tdRows" align="center">5757 - 0532291</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,003,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160719.165033.98100001.9704366805585757022.TID:00133078.SEQ:372628</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">18/07/2016</td>
+            <td class="tdRows" align="center">0595 - 0007274</td>
+                <td class="tdRows" align="center">+</td>
+                <td class="tdRows" align="right">9,769,728</td>
+            <td class="tdRows" align="left">/Ref:P281475010330968{//}/Ref:P281475010330968{//}Freelancer Technology Pty Limited  payme nt  4011000 D.Vi CHUYEN:Freelancer Technology Pty Limited Level 20, 680 George Street Sydney Nsw AU</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">19/07/2016</td>
+            <td class="tdRows" align="center">4516 - 0003108</td>
+                <td class="tdRows" align="center">+</td>
+                <td class="tdRows" align="right">2,021,208</td>
+            <td class="tdRows" align="left">/VCBFee:2(+VAT:0.2)USD//Ref:PET116846200{//}VAL:160718USD93,00 /33B:USD93,00 /Tlx:SW160718 3591 /Pmnt:DOB 02AUG91 POP E-MONEY REDEMPTION/TRN1832835592/ROC/1832835592 /71A:SHA /B.O:/20658259055911SKRILL LIMITED25 CANADA SQUARE,LEVEL 27LONDON</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">17/07/2016</td>
+            <td class="tdRows" align="center">FEE054 - 0000087</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">5,000</td>
+            <td class="tdRows" align="left">Thu phi quan ly the Visa Debit thang 07-2016, No:4283...7021</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">17/07/2016</td>
+            <td class="tdRows" align="center">5757 - 0252384</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">1,003,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160717.142451.98100001.9704366805585757022.TID:00990049.SEQ:763214</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">15/07/2016</td>
+            <td class="tdRows" align="center">VNCN - 0090180</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">1,011,000</td>
+            <td class="tdRows" align="left">IBVCB.1507160523353001.Huy gui Truong</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">15/07/2016</td>
+            <td class="tdRows" align="center">VNCK - 0522054</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">1,003,300</td>
+            <td class="tdRows" align="left">IBVCB.1507161018497002.A Huy gui Trang</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">14/07/2016</td>
+            <td class="tdRows" align="center">5757 - 0719181</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,003,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160713.210205.98100001.9704366805585757022.TID:00990011.SEQ:033492</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">14/07/2016</td>
+            <td class="tdRows" align="center">0105 - 0006876</td>
+                <td class="tdRows" align="center">+</td>
+                <td class="tdRows" align="right">5,396,470</td>
+            <td class="tdRows" align="left">/Ref:P281475010227542{//}/Ref:P281475010227542{//}Freelancer Technology Pty Limited  payme nt  4011000 D.Vi CHUYEN:Freelancer Technology Pty Limited Level 20, 680 George Street Sydney Nsw AU</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">13/07/2016</td>
+            <td class="tdRows" align="center">4516 - 0003382</td>
+                <td class="tdRows" align="center">+</td>
+                <td class="tdRows" align="right">845,880</td>
+            <td class="tdRows" align="left">//Ref:PET236399194{//}VAL:160712USD38,00 /33B:USD38,00 /Tlx:SW1607130297 /Pmnt:DOB 02AUG91  POP E-MONEY REDEMPTION/TRN1828191071/ROC/1828191071 /71A:SHA /B.O:/20658259055911SKRILL LIMITED25 CANADA SQUARE,LEVEL 27LONDONE14 5LQ /F.O:/05410001</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">12/07/2016</td>
+            <td class="tdRows" align="center">E817 - 0009664</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,001,100</td>
+            <td class="tdRows" align="left">ATM.CWD.20160712.103316.04900002.9704366805585757022.TID:04900002.SEQ:009664</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">12/07/2016</td>
+            <td class="tdRows" align="center">VNCN - 0032580</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">1,011,000</td>
+            <td class="tdRows" align="left">IBVCB.1207161008876002.Huy gui</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">12/07/2016</td>
+            <td class="tdRows" align="center">VNCK - 0219149</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">1,503,300</td>
+            <td class="tdRows" align="left">IBVCB.1207160617646001.Huy gui a Hoang</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">04/07/2016</td>
+            <td class="tdRows" align="center">VNCN - 0096107</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">1,011,000</td>
+            <td class="tdRows" align="left">IBVCB.0407160447130002.Huy gui Chien</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">04/07/2016</td>
+            <td class="tdRows" align="center">VNCN - 0086708</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">1,011,000</td>
+            <td class="tdRows" align="left">IBVCB.0407160056287001.Gui em yeu</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">01/07/2016</td>
+            <td class="tdRows" align="center">5757 - 0666239</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,003,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160701.192814.98100001.9704366805585757022.TID:00000000.SEQ:238859</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">28/06/2016</td>
+            <td class="tdRows" align="center">VNCN - 0096827</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,011,000</td>
+            <td class="tdRows" align="left">IBVCB.2806160146753001.Quy gui a Phu</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">28/06/2016</td>
+            <td class="tdRows" align="center">VNCK - 0931649</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">3,003,300</td>
+            <td class="tdRows" align="left">IBVCB.2806160263933002.a Huy gui Hung freelancer</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">27/06/2016</td>
+            <td class="tdRows" align="center">5757 - 0983092</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,003,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160626.231750.98100001.9704366805585757022.TID:00001568.SEQ:396977</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">25/06/2016</td>
+            <td class="tdRows" align="center">DD4400 - 0339303</td>
+                <td class="tdRows" align="center">+</td>
+                <td class="tdRows" align="right">1,750</td>
+            <td class="tdRows" align="left">Tra lai tien gui/Interest paid</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">24/06/2016</td>
+            <td class="tdRows" align="center">5757 - 0639790</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,003,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160624.165940.98100001.9704366805585757022.TID:12400003.SEQ:809652</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">24/06/2016</td>
+            <td class="tdRows" align="center">VNMS - 0369594</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">200,000</td>
+            <td class="tdRows" align="left">TOP-UP PHONE 01674089690. ACCOUNT 0541000180025. PROVIDER MSETOP</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">24/06/2016</td>
+            <td class="tdRows" align="center">RY33 - 0162344</td>
+                <td class="tdRows" align="center">+</td>
+                <td class="tdRows" align="right">2,013,000</td>
+            <td class="tdRows" align="left">FTF.CN:9704366809240757013.FrAcc:0951004174233      .ToAcc:0541000180025</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">23/06/2016</td>
+            <td class="tdRows" align="center">F948 - 0758118</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">887,135</td>
+            <td class="tdRows" align="left">POS:00000000.758118.20160623.084923.4283105585757021   .VISA-DEBIT-GATEWAY  .0.000000.0000</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">22/06/2016</td>
+            <td class="tdRows" align="center">VNCK - 0381454</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">1,003,300</td>
+            <td class="tdRows" align="left">IBVCB.2206160446003001.Huy gui a Hoang</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">22/06/2016</td>
+            <td class="tdRows" align="center">0105 - 0006933</td>
+                <td class="tdRows" align="center">+</td>
+                <td class="tdRows" align="right">10,937,480</td>
+            <td class="tdRows" align="left">/Ref:P281475009320777{//}/Ref:P281475009320777{//}Freelancer Technology Pty Limited  payme nt  4011000 D.Vi CHUYEN:Freelancer Technology Pty Limited Level 20, 680 George Street Sydney Nsw AU</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">21/06/2016</td>
+            <td class="tdRows" align="center">5757 - 0214800</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,003,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160621.131532.98100001.9704366805585757022.TID:00990011.SEQ:028248</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">20/06/2016</td>
+            <td class="tdRows" align="center">F948 - 0699898</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">175,000</td>
+            <td class="tdRows" align="left">POS:34500059.699898.20160620.171125.4283105585757021   .VISA-DEBIT-GATEWAY  .0.000000.0000</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">18/06/2016</td>
+            <td class="tdRows" align="center">FEE054 - 0000091</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">5,000</td>
+            <td class="tdRows" align="left">Thu phi quan ly the Visa Debit thang 06-2016, No:4283...7021</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">17/06/2016</td>
+            <td class="tdRows" align="center">0595 - 0007401</td>
+                <td class="tdRows" align="center">+</td>
+                <td class="tdRows" align="right">9,836,538</td>
+            <td class="tdRows" align="left">/Ref:P281475009143110{//}/Ref:P281475009143110{//}Freelancer Technology Pty Limited  payme nt  4011000 D.Vi CHUYEN:Freelancer Technology Pty Limited Level 20, 680 George Street Sydney Nsw AU</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">16/06/2016</td>
+            <td class="tdRows" align="center">VNMS - 0340224</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">200,000</td>
+            <td class="tdRows" align="left">TOP-UP PHONE 01674089690. ACCOUNT 0541000180025. PROVIDER MSETOP</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">16/06/2016</td>
+            <td class="tdRows" align="center">5D37 - 0007033</td>
+                <td class="tdRows" align="center">+</td>
+                <td class="tdRows" align="right">328,031</td>
+            <td class="tdRows" align="left">/Ref:P281475009078749{//}/Ref:P281475009078749{//}Partner Description  100041370 D.Vi CHUY EN:Payoneer Inc 1841 Broadway suite 520 New York US</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">15/06/2016</td>
+            <td class="tdRows" align="center">5757 - 0348313</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">1,003,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160615.125228.98100001.9704366805585757022.TID:00990049.SEQ:714506</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">13/06/2016</td>
+            <td class="tdRows" align="center">I011 - 0000020</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">33,000</td>
+            <td class="tdRows" align="left">THU PHI XNSD TK CUA KH NGUYEN VAN HUY</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">13/06/2016</td>
+            <td class="tdRows" align="center">VNMB - 1183868</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">11,000</td>
+            <td class="tdRows" align="left">Thu phi su dung dich vu VCB Mobile Banking thang 5-2016.So tien: 11000 VND.SDT: 0167408969</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">11/06/2016</td>
+            <td class="tdRows" align="center">VSMS - 0117518</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">8,800</td>
+            <td class="tdRows" align="left">THU PHI DICH VU SMS CHU DONG THANG 05/2016. SDT: 01674089690. So tien 8800 VND</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">09/06/2016</td>
+            <td class="tdRows" align="center">5757 - 0227222</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,003,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160609.125616.98100001.9704366805585757022.TID:00001200.SEQ:654942</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">05/06/2016</td>
+            <td class="tdRows" align="center">5757 - 0616431</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,003,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160604.225010.98100001.9704366805585757022.TID:12800023.SEQ:804102</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">01/06/2016</td>
+            <td class="tdRows" align="center">5757 - 0122555</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,003,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160601.102731.98100001.9704366805585757022.TID:00000000.SEQ:593444</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">01/06/2016</td>
+            <td class="tdRows" align="center">5757 - 0108487</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,003,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160601.084511.98100001.9704366805585757022.TID:00001440.SEQ:192300</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">31/05/2016</td>
+            <td class="tdRows" align="center">VNCN - 0080134</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,011,000</td>
+            <td class="tdRows" align="left">IBVCB.3105160126757001.Huy gui Chien</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">30/05/2016</td>
+            <td class="tdRows" align="center">4H69 - 0007591</td>
+                <td class="tdRows" align="center">+</td>
+                <td class="tdRows" align="right">6,513,434</td>
+            <td class="tdRows" align="left">/Ref:P281475008469400{//}/Ref:P281475008469400{//}Freelancer Technology Pty Limited  payme nt  4011000 D.Vi CHUYEN:Ignition Networks PTY Limited Level 20, 680 George Street Sydney Nsw AU</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">30/05/2016</td>
+            <td class="tdRows" align="center">J633 - 0008281</td>
+                <td class="tdRows" align="center">+</td>
+                <td class="tdRows" align="right">5,000,000</td>
+            <td class="tdRows" align="left">Sender:79310001.DD:300516.SHGD:10000154.BO:NGUYEN VAN TRUONG.ANH TRUONG GUI</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">28/05/2016</td>
+            <td class="tdRows" align="center">F948 - 0139576</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,148,000</td>
+            <td class="tdRows" align="left">POS:00000000.139576.20160527.212736.4283105585757021   .VISA-DEBIT-GATEWAY  .0.000000.0000</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">26/05/2016</td>
+            <td class="tdRows" align="center">F948 - 0103066</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">238,955</td>
+            <td class="tdRows" align="left">POS:80225316.103066.20160526.110243.4283105585757021   .VISA-DEBIT-GATEWAY  .0.000000.0000</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">25/05/2016</td>
+            <td class="tdRows" align="center">5757 - 0190860</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,003,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160525.100709.98100001.9704366805585757022.TID:00133030.SEQ:694834</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">25/05/2016</td>
+            <td class="tdRows" align="center">DD4400 - 0401378</td>
+                <td class="tdRows" align="center">+</td>
+                <td class="tdRows" align="right">1,204</td>
+            <td class="tdRows" align="left">Tra lai tien gui/Interest paid</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">19/05/2016</td>
+            <td class="tdRows" align="center">XK51 - 0007335</td>
+                <td class="tdRows" align="center">+</td>
+                <td class="tdRows" align="right">3,217,540</td>
+            <td class="tdRows" align="left">/Ref:P281475008137385{//}/Ref:P281475008137385{//}Freelancer Technology Pty Limited  payme nt  4011000 D.Vi CHUYEN:Ignition Networks PTY Limited Level 20, 680 George Street Sydney Nsw AU</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">19/05/2016</td>
+            <td class="tdRows" align="center">5757 - 0392683</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">1,503,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160519.093438.98100001.9704366805585757022.TID:00133038.SEQ:703845</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">18/05/2016</td>
+            <td class="tdRows" align="center">5757 - 0291647</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">1,503,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160518.105044.98100001.9704366805585757022.TID:10472067.SEQ:062108</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">18/05/2016</td>
+            <td class="tdRows" align="center">LK63 - 0538458</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,001,100</td>
+            <td class="tdRows" align="left">ATM.CWD.20160518.101952.09900003.9704366805585757022.TID:09900003.SEQ:538458</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">17/05/2016</td>
+            <td class="tdRows" align="center">D297 - 0006551</td>
+                <td class="tdRows" align="center">+</td>
+                <td class="tdRows" align="right">6,494,115</td>
+            <td class="tdRows" align="left">/Ref:P281475008016308{//}/Ref:P281475008016308{//}Freelancer Technology Pty Limited  payme nt  4011000 D.Vi CHUYEN:Ignition Networks PTY Limited Level 20, 680 George Street Sydney Nsw AU</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">14/05/2016</td>
+            <td class="tdRows" align="center">FEE054 - 0000075</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">5,000</td>
+            <td class="tdRows" align="left">Thu phi quan ly the Visa Debit thang 05-2016, No:4283...7021</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">09/05/2016</td>
+            <td class="tdRows" align="center">5D37 - 0007309</td>
+                <td class="tdRows" align="center">+</td>
+                <td class="tdRows" align="right">2,117,297</td>
+            <td class="tdRows" align="left">/Ref:P281475007779938{//}/Ref:P281475007779938{//}Freelancer Technology Pty Limited  payme nt  4011000 D.Vi CHUYEN:Ignition Networks PTY Limited Level 20, 680 George Street Sydney Nsw AU</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">09/05/2016</td>
+            <td class="tdRows" align="center">VNCN - 0064973</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">1,511,000</td>
+            <td class="tdRows" align="left">IBVCB.0905160943780001.gui a Bang</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">09/05/2016</td>
+            <td class="tdRows" align="center">5757 - 0814650</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,003,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160509.165155.98100001.9704366805585757022.TID:00990011.SEQ:016871</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">08/05/2016</td>
+            <td class="tdRows" align="center">5757 - 0623588</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,003,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160508.080914.98100001.9704366805585757022.TID:00990011.SEQ:016441</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">07/05/2016</td>
+            <td class="tdRows" align="center">VSMS - 0100713</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">8,800</td>
+            <td class="tdRows" align="left">THU PHI DICH VU SMS CHU DONG THANG 04/2016. SDT: 01674089690. So tien 8800 VND</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">06/05/2016</td>
+            <td class="tdRows" align="center">VNMS - 0196214</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">200,000</td>
+            <td class="tdRows" align="left">TOP-UP PHONE 01674089690. ACCOUNT 0541000180025. PROVIDER MSETOP</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">05/05/2016</td>
+            <td class="tdRows" align="center">5757 - 0240485</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,003,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160505.161412.98100001.9704366805585757022.TID:00990011.SEQ:015708</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">05/05/2016</td>
+            <td class="tdRows" align="center">5757 - 0240664</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,003,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160505.161453.98100001.9704366805585757022.TID:00990011.SEQ:015710</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">03/05/2016</td>
+            <td class="tdRows" align="center">5757 - 0987153</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,003,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160503.134030.98100001.9704366805585757022.TID:00990011.SEQ:015168</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">03/05/2016</td>
+            <td class="tdRows" align="center">5757 - 0987100</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,003,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160503.133946.98100001.9704366805585757022.TID:00990011.SEQ:015166</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">02/05/2016</td>
+            <td class="tdRows" align="center">VNMS - 0183267</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">200,000</td>
+            <td class="tdRows" align="left">TOP-UP PHONE 01674089690. ACCOUNT 0541000180025. PROVIDER MSETOP</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">30/04/2016</td>
+            <td class="tdRows" align="center">FN30 - 0000206</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">463,000</td>
+            <td class="tdRows" align="left">POS:33000009.20160430.123640.9704366805585757022.GOLDMALT-PILSNER    .0.000000.</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">30/04/2016</td>
+            <td class="tdRows" align="center">5757 - 0593723</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,003,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160430.143252.98100001.9704366805585757022.TID:12800024.SEQ:297145</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">29/04/2016</td>
+            <td class="tdRows" align="center">FN30 - 0000200</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">1,000,000</td>
+            <td class="tdRows" align="left">POS:33000009.20160429.104752.9704366805585757022.GOLDMALT-PILSNER    .0.000000.</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">29/04/2016</td>
+            <td class="tdRows" align="center">5D37 - 0008010</td>
+                <td class="tdRows" align="center">+</td>
+                <td class="tdRows" align="right">6,488,779</td>
+            <td class="tdRows" align="left">/Ref:P281475007459239{//}/Ref:P281475007459239{//}Freelancer Technology Pty Limited  payme nt  4011000 D.Vi CHUYEN:Ignition Networks PTY Limited Level 20, 680 George Street Sydney Nsw AU</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">27/04/2016</td>
+            <td class="tdRows" align="center">5D37 - 0006230</td>
+                <td class="tdRows" align="center">+</td>
+                <td class="tdRows" align="right">8,666,973</td>
+            <td class="tdRows" align="left">/Ref:P281475007364419{//}/Ref:P281475007364419{//}Freelancer Technology Pty Limited  payme nt  4011000 D.Vi CHUYEN:Ignition Networks PTY Limited Level 20, 680 George Street Sydney Nsw AU</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">25/04/2016</td>
+            <td class="tdRows" align="center">DD4400 - 0029679</td>
+                <td class="tdRows" align="center">+</td>
+                <td class="tdRows" align="right">5,834</td>
+            <td class="tdRows" align="left">Tra lai tien gui/Interest paid</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">25/04/2016</td>
+            <td class="tdRows" align="center">5757 - 0692319</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,003,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160425.115449.98100001.9704366805585757022.TID:00004007.SEQ:528246</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">23/04/2016</td>
+            <td class="tdRows" align="center">FEE054 - 0000078</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">5,000</td>
+            <td class="tdRows" align="left">Thu phi quan ly the Visa Debit thang 04-2016, No:4283...7021</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">22/04/2016</td>
+            <td class="tdRows" align="center">T243 - 0098274</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">5,001,100</td>
+            <td class="tdRows" align="left">ATM.CWD.20160422.090608.05400009.9704366805585757022.TID:05400009.SEQ:098274</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">22/04/2016</td>
+            <td class="tdRows" align="center">T243 - 0098276</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">5,001,100</td>
+            <td class="tdRows" align="left">ATM.CWD.20160422.090701.05400009.9704366805585757022.TID:05400009.SEQ:098276</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">20/04/2016</td>
+            <td class="tdRows" align="center">5757 - 0903771</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,003,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160419.203435.98100001.9704366805585757022.TID:10044076.SEQ:022818</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">19/04/2016</td>
+            <td class="tdRows" align="center">XK51 - 0007374</td>
+                <td class="tdRows" align="center">+</td>
+                <td class="tdRows" align="right">13,591,980</td>
+            <td class="tdRows" align="left">/Ref:P281475007067184{//}/Ref:P281475007067184{//}Freelancer Technology Pty Limited  payme nt  4011000 D.Vi CHUYEN:Ignition Networks PTY Limited Level 20, 680 George Street Sydney Nsw AU</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">19/04/2016</td>
+            <td class="tdRows" align="center">3N57 - 0001186</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">21,500,000</td>
+            <td class="tdRows" align="left">POS:14500721.20160419.140207.9704366805585757022.PIAGGIO 112 HO TUNG .0.000000.</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">16/04/2016</td>
+            <td class="tdRows" align="center">5757 - 0393872</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,003,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160415.211728.98100001.9704366805585757022.TID:00004007.SEQ:285528</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">11/04/2016</td>
+            <td class="tdRows" align="center">VNCK - 0308032</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">298,300</td>
+            <td class="tdRows" align="left">IBVCB.1104160751570001.gia han domain mattroiviet.org</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">11/04/2016</td>
+            <td class="tdRows" align="center">VNCK - 0342836</td>
+                <td class="tdRows" align="center">+</td>
+                <td class="tdRows" align="right">400,000</td>
+            <td class="tdRows" align="left">IBVCB.1104160876847003.Ngan ck tien ten mien</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">09/04/2016</td>
+            <td class="tdRows" align="center">VSMS - 0101489</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">8,800</td>
+            <td class="tdRows" align="left">THU PHI DICH VU SMS CHU DONG THANG 03/2016. SDT: 01674089690. So tien 8800 VND</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">07/04/2016</td>
+            <td class="tdRows" align="center">5757 - 0920905</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,003,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160407.114634.98100001.9704366805585757022.TID:00004007.SEQ:988348</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">07/04/2016</td>
+            <td class="tdRows" align="center">5757 - 0920852</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,003,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160407.114601.98100001.9704366805585757022.TID:00004007.SEQ:988335</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">05/04/2016</td>
+            <td class="tdRows" align="center">5757 - 0690697</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,003,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160405.174433.98100001.9704366805585757022.TID:00260001.SEQ:133376</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">05/04/2016</td>
+            <td class="tdRows" align="center">C263 - 0006857</td>
+                <td class="tdRows" align="center">+</td>
+                <td class="tdRows" align="right">5,381,581</td>
+            <td class="tdRows" align="left">/Ref:P281475006609772{//}/Ref:P281475006609772{//}Freelancer Technology Pty Limited  payme nt  4011000 D.Vi CHUYEN:Ignition Networks PTY Limited Level 20, 680 George Street Sydney Nsw AU</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">04/04/2016</td>
+            <td class="tdRows" align="center">5757 - 0501505</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,003,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160404.101102.98100001.9704366805585757022.TID:00125019.SEQ:338810</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">03/04/2016</td>
+            <td class="tdRows" align="center">5757 - 0358075</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,003,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160402.213940.98100001.9704366805585757022.TID:80005312.SEQ:341109</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">01/04/2016</td>
+            <td class="tdRows" align="center">F948 - 0929413</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">235,285</td>
+            <td class="tdRows" align="left">POS:12001528.929413.20160401.165328.4283105585757021   .VISA-DEBIT-GATEWAY  .0.000000.0000</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">30/03/2016</td>
+            <td class="tdRows" align="center">VNCN - 0050478</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">10,011,000</td>
+            <td class="tdRows" align="left">IBVCB.3003160175239001.Quy gui a Phu</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">28/03/2016</td>
+            <td class="tdRows" align="center">E816 - 0008787</td>
+                <td class="tdRows" align="center">+</td>
+                <td class="tdRows" align="right">10,010,000</td>
+            <td class="tdRows" align="left">FTF.CN:9704366809240757013.FrAcc:0951004174233      .ToAcc:0541000180025</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">28/03/2016</td>
+            <td class="tdRows" align="center">5757 - 0722233</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,003,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160328.201134.98100001.9704366805585757022.TID:00001561.SEQ:596221</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">27/03/2016</td>
+            <td class="tdRows" align="center">T243 - 0085902</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">1,501,100</td>
+            <td class="tdRows" align="left">ATM.CWD.20160327.192755.05400009.9704366805585757022.TID:05400009.SEQ:085902</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">25/03/2016</td>
+            <td class="tdRows" align="center">5757 - 0284714</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,003,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160325.171907.98100001.9704366805585757022.TID:00004007.SEQ:676290</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">25/03/2016</td>
+            <td class="tdRows" align="center">DD4400 - 0111834</td>
+                <td class="tdRows" align="center">+</td>
+                <td class="tdRows" align="right">4,184</td>
+            <td class="tdRows" align="left">Tra lai tien gui/Interest paid</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">24/03/2016</td>
+            <td class="tdRows" align="center">0105 - 0007505</td>
+                <td class="tdRows" align="center">+</td>
+                <td class="tdRows" align="right">8,725,410</td>
+            <td class="tdRows" align="left">/Ref:P281475006237232{//}/Ref:P281475006237232{//}Freelancer Technology Pty Limited  payme nt  4011000 D.Vi CHUYEN:Ignition Networks PTY Limited Level 20, 680 George Street Sydney Nsw AU</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">19/03/2016</td>
+            <td class="tdRows" align="center">5757 - 0432029</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,003,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160319.081806.98100001.9704366805585757022.TID:00004007.SEQ:520958</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">19/03/2016</td>
+            <td class="tdRows" align="center">FEE054 - 0000090</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">5,000</td>
+            <td class="tdRows" align="left">Thu phi quan ly the Visa Debit thang 03-2016, No:4283...7021</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">18/03/2016</td>
+            <td class="tdRows" align="center">XK51 - 0007197</td>
+                <td class="tdRows" align="center">+</td>
+                <td class="tdRows" align="right">14,218,626</td>
+            <td class="tdRows" align="left">/Ref:P281475006038198{//}/Ref:P281475006038198{//}Freelancer Technology Pty Limited  payme nt  4011000 D.Vi CHUYEN:Ignition Networks PTY Limited Level 20, 680 George Street Sydney Nsw AU</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">15/03/2016</td>
+            <td class="tdRows" align="center">5757 - 0988603</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,003,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160315.140651.98100001.9704366805585757022.TID:00001506.SEQ:341113</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">14/03/2016</td>
+            <td class="tdRows" align="center">E817 - 0006839</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,001,100</td>
+            <td class="tdRows" align="left">ATM.CWD.20160314.105844.04900002.9704366805585757022.TID:04900002.SEQ:006839</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">12/03/2016</td>
+            <td class="tdRows" align="center">VSMS - 0101827</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">8,800</td>
+            <td class="tdRows" align="left">THU PHI DICH VU SMS CHU DONG THANG 02/2016. SDT: 01674089690. So tien 8800 VND</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">08/03/2016</td>
+            <td class="tdRows" align="center">5757 - 0902455</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,003,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160308.172143.98100001.9704366805585757022.TID:00004007.SEQ:198212</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">08/03/2016</td>
+            <td class="tdRows" align="center">5757 - 0850633</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,003,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160308.120415.98100001.9704366805585757022.TID:14000001.SEQ:173159</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">08/03/2016</td>
+            <td class="tdRows" align="center">5757 - 0902634</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,003,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160308.172217.98100001.9704366805585757022.TID:00004007.SEQ:198232</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">08/03/2016</td>
+            <td class="tdRows" align="center">0105 - 0006880</td>
+                <td class="tdRows" align="center">+</td>
+                <td class="tdRows" align="right">8,661,206</td>
+            <td class="tdRows" align="left">/Ref:P281475005674252{//}/Ref:P281475005674252{//}Freelancer Technology Pty Limited  payme nt  4011000 D.Vi CHUYEN:Ignition Networks PTY Limited Level 20, 680 George Street Sydney Nsw AU</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">06/03/2016</td>
+            <td class="tdRows" align="center">VNMS - 0992543</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">100,000</td>
+            <td class="tdRows" align="left">TOP-UP PHONE 01674089690. ACCOUNT 0541000180025. PROVIDER MSETOP</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">03/03/2016</td>
+            <td class="tdRows" align="center">VNCK - 0738597</td>
+                <td class="tdRows" align="center">+</td>
+                <td class="tdRows" align="right">2,000,000</td>
+            <td class="tdRows" align="left">IBVCB.0303160137256001.May chuyen</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">01/03/2016</td>
+            <td class="tdRows" align="center">0105 - 0008265</td>
+                <td class="tdRows" align="center">+</td>
+                <td class="tdRows" align="right">10,859,348</td>
+            <td class="tdRows" align="left">/Ref:P281475005435824{//}/Ref:P281475005435824{//}Freelancer Technology Pty Limited  payme nt D.Vi CHUYEN:Ignition Networks PTY Limited Level 20, 680 George Street Sydney Nsw AU</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">29/02/2016</td>
+            <td class="tdRows" align="center">VNMS - 0974961</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">150,000</td>
+            <td class="tdRows" align="left">TOP-UP PHONE 01674089690. ACCOUNT 0541000180025. PROVIDER MSETOP</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">27/02/2016</td>
+            <td class="tdRows" align="center">5757 - 0570667</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,003,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160227.191407.98100001.9704366805585757022.TID:00004007.SEQ:941820</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">25/02/2016</td>
+            <td class="tdRows" align="center">JL42 - 0008579</td>
+                <td class="tdRows" align="center">+</td>
+                <td class="tdRows" align="right">22,885</td>
+            <td class="tdRows" align="left">//250216019371/// CRAU VISA DEBIT4283105585757021 DD20160124CODE649202 5735 TAI ITUNES.COM BILL ITUNES.COM LU THEO BC AUTH 24.01.2016</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">25/02/2016</td>
+            <td class="tdRows" align="center">DD4400 - 0190530</td>
+                <td class="tdRows" align="center">+</td>
+                <td class="tdRows" align="right">2,402</td>
+            <td class="tdRows" align="left">Tra lai tien gui/Interest paid</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">23/02/2016</td>
+            <td class="tdRows" align="center">VNCN - 0087430</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">1,011,000</td>
+            <td class="tdRows" align="left">IBVCB.2302160860072001.Tien</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">22/02/2016</td>
+            <td class="tdRows" align="center">5757 - 0860544</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">1,003,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160221.221720.98100001.9704366805585757022.TID:00123029.SEQ:705504</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">21/02/2016</td>
+            <td class="tdRows" align="center">5757 - 0744141</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">1,003,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160220.205102.98100001.9704366805585757022.TID:15600001.SEQ:983663</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">20/02/2016</td>
+            <td class="tdRows" align="center">FEE054 - 0000084</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">5,000</td>
+            <td class="tdRows" align="left">Thu phi quan ly the Visa Debit thang 02-2016, No:4283...7021</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">18/02/2016</td>
+            <td class="tdRows" align="center">VNCK - 0947003</td>
+                <td class="tdRows" align="center">+</td>
+                <td class="tdRows" align="right">500,000</td>
+            <td class="tdRows" align="left">IBVCB.1802160089875001.e Ngan ck hosting domain</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">18/02/2016</td>
+            <td class="tdRows" align="center">9031 - 0006033</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">1,501,100</td>
+            <td class="tdRows" align="left">ATM.CWD.20160218.131334.00600016.9704366805585757022.TID:00600016.SEQ:006033</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">17/02/2016</td>
+            <td class="tdRows" align="center">VNCK - 0887280</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">168,300</td>
+            <td class="tdRows" align="left">IBVCB.1702160704964001.Thanh toan hop dong #71394</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">17/02/2016</td>
+            <td class="tdRows" align="center">F948 - 0046182</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,600,900</td>
+            <td class="tdRows" align="left">POS:00000000.046182.20160217.092443.4283105585757021   .VISA-DEBIT-GATEWAY  .0.000000.0000</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">17/02/2016</td>
+            <td class="tdRows" align="center">5757 - 0364461</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,003,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160217.172310.98100001.9704366805585757022.TID:00004007.SEQ:699734</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">17/02/2016</td>
+            <td class="tdRows" align="center">5757 - 0364369</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,003,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160217.172237.98100001.9704366805585757022.TID:00004007.SEQ:699717</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">16/02/2016</td>
+            <td class="tdRows" align="center">XK51 - 0006968</td>
+                <td class="tdRows" align="center">+</td>
+                <td class="tdRows" align="right">8,683,212</td>
+            <td class="tdRows" align="left">/Ref:P281475004912131{//}/Ref:P281475004912131{//}Ignition Networks PTY Limited  payment D .Vi CHUYEN:Ignition Networks PTY Limited Level 20, 680 George Street Sydney Nsw AU</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">14/02/2016</td>
+            <td class="tdRows" align="center">F948 - 0995271</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">681,401</td>
+            <td class="tdRows" align="left">POS:00000000.995271.20160214.063117.4283105585757021   .VISA-DEBIT-GATEWAY  .0.000000.0000</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">10/02/2016</td>
+            <td class="tdRows" align="center">5757 - 0794028</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,003,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160210.110953.98100001.9704366805585757022.TID:10172066.SEQ:005723</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">08/02/2016</td>
+            <td class="tdRows" align="center">VNMS - 0916147</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">100,000</td>
+            <td class="tdRows" align="left">TOP-UP PHONE 01674089690. ACCOUNT 0541000180025. PROVIDER MSETOP</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">06/02/2016</td>
+            <td class="tdRows" align="center">VSMS - 0102065</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">8,800</td>
+            <td class="tdRows" align="left">THU PHI DICH VU SMS CHU DONG THANG 01/2016. SDT: 01674089690. So tien 8800 VND</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">06/02/2016</td>
+            <td class="tdRows" align="center">S805 - 0089427</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">5,001,100</td>
+            <td class="tdRows" align="left">ATM.CWD.20160206.090805.05400008.9704366805585757022.TID:05400008.SEQ:089427</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">03/02/2016</td>
+            <td class="tdRows" align="center">5757 - 0125243</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,003,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160203.124955.98100001.9704366805585757022.TID:00004007.SEQ:281455</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">01/02/2016</td>
+            <td class="tdRows" align="center">0105 - 0008312</td>
+                <td class="tdRows" align="center">+</td>
+                <td class="tdRows" align="right">8,637,125</td>
+            <td class="tdRows" align="left">/Ref:P281475004455398{//}/Ref:P281475004455398{//}Ignition Networks PTY Limited  payment D .Vi CHUYEN:Ignition Networks PTY Limited Level 20, 680 George Street Sydney Nsw AU</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">01/02/2016</td>
+            <td class="tdRows" align="center">VNCK - 0057940</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">503,300</td>
+            <td class="tdRows" align="left">IBVCB.0102160578403003.Eddy Nguyen ung ho</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">01/02/2016</td>
+            <td class="tdRows" align="center">VNMS - 0895408</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">200,000</td>
+            <td class="tdRows" align="left">TOP-UP PHONE 01674089690. ACCOUNT 0541000180025. PROVIDER MSETOP</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">01/02/2016</td>
+            <td class="tdRows" align="center">5757 - 0673054</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,003,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160201.183609.98100001.9704366805585757022.TID:00363016.SEQ:335069</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">29/01/2016</td>
+            <td class="tdRows" align="center">5757 - 0850218</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,003,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160129.112603.98100001.9704366805585757022.TID:05240803.SEQ:978024</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">29/01/2016</td>
+            <td class="tdRows" align="center">5757 - 0823630</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,003,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160129.093035.98100001.9704366805585757022.TID:00000000.SEQ:181396</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">28/01/2016</td>
+            <td class="tdRows" align="center">5757 - 0646872</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">1,003,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160128.122534.98100001.9704366805585757022.TID:00004007.SEQ:026241</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">28/01/2016</td>
+            <td class="tdRows" align="center">4593 - 0008036</td>
+                <td class="tdRows" align="center">+</td>
+                <td class="tdRows" align="right">9,693,059</td>
+            <td class="tdRows" align="left">/Ref:P281475004334692{//}/Ref:P281475004334692{//}Ignition Networks PTY Limited  payment D .Vi CHUYEN:Ignition Networks PTY Limited Level 20, 680 George Street Sydney Nsw AU</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">28/01/2016</td>
+            <td class="tdRows" align="center">5757 - 0646796</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,003,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160128.122459.98100001.9704366805585757022.TID:00004007.SEQ:026225</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">27/01/2016</td>
+            <td class="tdRows" align="center">F948 - 0685153</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">182,433</td>
+            <td class="tdRows" align="left">POS:00000000.685153.20160127.065602.4283105585757021   .VISA-DEBIT-GATEWAY  .0.000000.0000</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">25/01/2016</td>
+            <td class="tdRows" align="center">F948 - 0650604</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">351,913</td>
+            <td class="tdRows" align="left">POS:00000000.650604.20160125.091924.4283105585757021   .VISA-DEBIT-GATEWAY  .0.000000.0000</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">25/01/2016</td>
+            <td class="tdRows" align="center">DD4400 - 0215635</td>
+                <td class="tdRows" align="center">+</td>
+                <td class="tdRows" align="right">1,053</td>
+            <td class="tdRows" align="left">Tra lai tien gui/Interest paid</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">25/01/2016</td>
+            <td class="tdRows" align="center">F948 - 0649202</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">22,885</td>
+            <td class="tdRows" align="left">POS:00000000.649202.20160125.065553.4283105585757021   .VISA-DEBIT-GATEWAY  .0.000000.0000</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">23/01/2016</td>
+            <td class="tdRows" align="center">FEE054 - 0000077</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">5,000</td>
+            <td class="tdRows" align="left">Thu phi quan ly the Visa Debit thang 01-2016, No:4283...7021</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">22/01/2016</td>
+            <td class="tdRows" align="center">5757 - 0741311</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">1,003,300</td>
+            <td class="tdRows" align="left">ATM.CWD.20160121.214953.98100001.9704366805585757022.TID:14600001.SEQ:458511</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">22/01/2016</td>
+            <td class="tdRows" align="center">JM75 - 0056901</td>
+                <td class="tdRows" align="center">+</td>
+                <td class="tdRows" align="right">300,000</td>
+            <td class="tdRows" align="left">FTF.CN:9704366610478201017.FrAcc:0351000930898      .ToAcc:0541000180025</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">20/01/2016</td>
+            <td class="tdRows" align="center">E817 - 0005949</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,001,100</td>
+            <td class="tdRows" align="left">ATM.CWD.20160120.163045.04900002.9704366805585757022.TID:04900002.SEQ:005949</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">18/01/2016</td>
+            <td class="tdRows" align="center">0105 - 0008014</td>
+                <td class="tdRows" align="center">+</td>
+                <td class="tdRows" align="right">8,722,142</td>
+            <td class="tdRows" align="left">/Ref:P281475004025034{//}/Ref:P281475004025034{//}Ignition Networks PTY Limited  payment D .Vi CHUYEN:Ignition Networks PTY Limited Level 20, 680 George Street Sydney Nsw AU</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">16/01/2016</td>
+            <td class="tdRows" align="center">F948 - 0491474</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">228,710</td>
+            <td class="tdRows" align="left">POS:00000000.491474.20160116.132035.4283105585757021   .VISA-DEBIT-GATEWAY  .0.000000.0000</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">14/01/2016</td>
+            <td class="tdRows" align="center">F948 - 0447888</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">686,542</td>
+            <td class="tdRows" align="left">POS:00000000.447888.20160114.063207.4283105585757021   .VISA-DEBIT-GATEWAY  .0.000000.0000</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">09/01/2016</td>
+            <td class="tdRows" align="center">VNCN - 0053327</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">97,886</td>
+            <td class="tdRows" align="left">IBVCB.0901160190924001.Phat loc phat phat loc</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">09/01/2016</td>
+            <td class="tdRows" align="center">VSMS - 0102856</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">8,800</td>
+            <td class="tdRows" align="left">THU PHI DICH VU SMS CHU DONG THANG 12/2015. SDT: 01674089690. So tien 8800 VND</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">05/01/2016</td>
+            <td class="tdRows" align="center">E817 - 0006246</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">501,100</td>
+            <td class="tdRows" align="left">ATM.CWD.20160105.201331.04900002.4283105585757021   .TID:04900002.SEQ:006246</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">05/01/2016</td>
+            <td class="tdRows" align="center">F948 - 0278900</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">292,796</td>
+            <td class="tdRows" align="left">POS:00000001.278900.20160105.114923.4283105585757021   .VISA-DEBIT-GATEWAY  .0.000000.0000</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">05/01/2016</td>
+            <td class="tdRows" align="center">9D04 - 0423952</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">2,951,100</td>
+            <td class="tdRows" align="left">ATM.CWD.20160105.162839.04500020.4283105585757021   .TID:04500020.SEQ:423952</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">05/01/2016</td>
+            <td class="tdRows" align="center">C263 - 0008519</td>
+                <td class="tdRows" align="center">+</td>
+                <td class="tdRows" align="right">3,736,068</td>
+            <td class="tdRows" align="left">/Ref:P281475003659877{//}/Ref:P281475003659877{//}Ignition Networks PTY Limited  payment D .Vi CHUYEN:Ignition Networks PTY Limited Level 20, 680 George Street Sydney Nsw AU</td>
+        </tr>
+        <tr>
+            <td class="tdRows" align="center">03/01/2016</td>
+            <td class="tdRows" align="center">T243 - 0041403</td>
+                <td class="tdRows" align="center">-</td>
+                <td class="tdRows" align="right">501,100</td>
+            <td class="tdRows" align="left">ATM.CWD.20160103.081356.05400009.4283105585757021   .TID:05400009.SEQ:041403</td>
+        </tr>
+        <tr>
+            <td style="font-weight:bold" align="center">Tổng</td>
+            <td></td>
+            <td></td>
+            <td style="font-weight:bold" align="right">-1,609,329</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="5">&nbsp;</td>
+        </tr>
+        <tr>
+            <td colspan="5">&nbsp;</td>
+        </tr>
+        <tr>
+            <td colspan="5">&nbsp;</td>
+        </tr>
+        <tr>
+            <td colspan="5" align="center" style="font-weight: bold; font-size: 13pt; font-style: italic">Trân trọng cảm ơn quý khách đã sử dụng dịch vụ của Vietcombank!</td>
+        </tr>
+        <tr>
+            <td colspan="5" align="center">==========</td>
+        </tr>
+        <tr>
+            <td colspan="5" align="center" style="font-weight: bold; font-size: 13pt">VIETCOMBANK - Chung niềm tin vững tương lai</td>
+        </tr>
+        <tr>
+            <td colspan="5" align="center">**********</td>
+        </tr>
+        <tr>
+            <td colspan="5" align="left" style="font-weight: bold"><u>Ghi chú</u>Sao kê này không thay cho các cam kết của Ngân hàng TMCP Ngoại thương về các nghĩa vụ của khách hàng được xác nhận với bên thứ ba./</td>
+        </tr>
+        <tr>
+            <td colspan="5">&nbsp;</td>
+        </tr>
+        <tr style="font-size: 10pt">
+            <td colspan="2" align="left">Postal address:</td>
+            <td colspan="2"></td>
+            <td colspan="1" align="left">Telex: (0805) 411504 VCB - VT</td>
+        </tr>
+        <tr style="font-size: 10pt">
+            <td colspan="2" align="left">198 TRAN QUANG KHAI AVENUE</td>
+            <td colspan="2"></td>
+            <td colspan="1" align="left">Swift: BFTV VNVX</td>
+        </tr>
+        <tr style="font-size: 10pt">
+            <td colspan="2" align="left">HANOI - VIETNAM</td>
+            <td colspan="2"></td>
+            <td colspan="1" align="left">Website: www.vietcombank.com.vn</td>
+        </tr>
+        <tr style="font-size: 10pt">
+            <td colspan="2"></td>
+            <td colspan="2"></td>
+            <td colspan="1" align="left">Contact center: 1900.54.54.13</td>
+        </tr>
+    </table>
+
+</body>
+
+</html>

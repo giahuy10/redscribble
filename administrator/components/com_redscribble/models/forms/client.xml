@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<form>
+  <fieldset>
+    <field name="id" type="text" readonly="true" class="readonly" default="0" description="JGLOBAL_FIELD_ID_DESC"/>
+    <field name="ordering"/>
+    <field name="state" default="1" type="list" label="JSTATUS" description="JFIELD_PUBLISHED_DESC" class="inputbox" size="1">
+      <option value="1">JPUBLISHED</option>
+      <option value="0">JUNPUBLISHED</option>
+      <option value="2">JARCHIVED</option>
+      <option value="-2">JTRASHED</option>
+    </field>
+    <field name="checked_out" type="hidden" filter="unset"/>
+    <field name="checked_out_time" default="0000-00-00 00:00:00" type="hidden" filter="unset"/>
+    <field name="created_by" type="createdby" default="0" label="COM_REDSCRIBBLE_FORM_LBL_CLIENT_CREATED_BY" description="COM_REDSCRIBBLE_FORM_DESC_CLIENT_CREATED_BY" hidden="true" hint="COM_REDSCRIBBLE_FORM_LBL_CLIENT_CREATED_BY"/>
+    <field name="modified_by" type="modifiedby" default="0" label="COM_REDSCRIBBLE_FORM_LBL_CLIENT_MODIFIED_BY" description="COM_REDSCRIBBLE_FORM_DESC_CLIENT_MODIFIED_BY" hidden="true" hint="COM_REDSCRIBBLE_FORM_LBL_CLIENT_MODIFIED_BY"/>
+    <field name="client_name" type="text" required="true" label="COM_REDSCRIBBLE_FORM_LBL_CLIENT_CLIENT_NAME" description="COM_REDSCRIBBLE_FORM_DESC_CLIENT_CLIENT_NAME" hint="COM_REDSCRIBBLE_FORM_LBL_CLIENT_CLIENT_NAME"/>
+    <field name="physical_address" type="text" required="true" label="COM_REDSCRIBBLE_FORM_LBL_CLIENT_PHYSICAL_ADDRESS" description="COM_REDSCRIBBLE_FORM_DESC_CLIENT_PHYSICAL_ADDRESS" hint="COM_REDSCRIBBLE_FORM_LBL_CLIENT_PHYSICAL_ADDRESS"/>
+    <field name="billing_address" type="text" required="true" label="COM_REDSCRIBBLE_FORM_LBL_CLIENT_BILLING_ADDRESS" description="COM_REDSCRIBBLE_FORM_DESC_CLIENT_BILLING_ADDRESS" hint="COM_REDSCRIBBLE_FORM_LBL_CLIENT_BILLING_ADDRESS"/>
+    <field name="head_office_phone" type="text" required="true" label="COM_REDSCRIBBLE_FORM_LBL_CLIENT_HEAD_OFFICE_PHONE" description="COM_REDSCRIBBLE_FORM_DESC_CLIENT_HEAD_OFFICE_PHONE" hint="COM_REDSCRIBBLE_FORM_LBL_CLIENT_HEAD_OFFICE_PHONE"/>
+    <field name="website" type="url" validate="url" required="true" label="COM_REDSCRIBBLE_FORM_LBL_CLIENT_WEBSITE" description="COM_REDSCRIBBLE_FORM_DESC_CLIENT_WEBSITE" hint="COM_REDSCRIBBLE_FORM_LBL_CLIENT_WEBSITE"/>
+    <field name="type" type="list" required="true" label="COM_REDSCRIBBLE_FORM_LBL_CLIENT_TYPE" description="COM_REDSCRIBBLE_FORM_DESC_CLIENT_TYPE" hint="COM_REDSCRIBBLE_FORM_LBL_CLIENT_TYPE">
+      <option value="1">COM_REDSCRIBBLE_CLIENTS_TYPE_OPTION_1</option>
+      <option value="2">COM_REDSCRIBBLE_CLIENTS_TYPE_OPTION_2</option>
+      <option value="3">COM_REDSCRIBBLE_CLIENTS_TYPE_OPTION_3</option>
+    </field>
+    <field name="key_contact_name" type="text" required="true" label="COM_REDSCRIBBLE_FORM_LBL_CLIENT_KEY_CONTACT_NAME" description="COM_REDSCRIBBLE_FORM_DESC_CLIENT_KEY_CONTACT_NAME" hint="COM_REDSCRIBBLE_FORM_LBL_CLIENT_KEY_CONTACT_NAME"/>
+    <field name="key_contact_ddi" type="text" required="true" label="COM_REDSCRIBBLE_FORM_LBL_CLIENT_KEY_CONTACT_DDI" description="COM_REDSCRIBBLE_FORM_DESC_CLIENT_KEY_CONTACT_DDI" hint="COM_REDSCRIBBLE_FORM_LBL_CLIENT_KEY_CONTACT_DDI"/>
+    <field name="key_contact_email" type="text" required="true" label="COM_REDSCRIBBLE_FORM_LBL_CLIENT_KEY_CONTACT_EMAIL" description="COM_REDSCRIBBLE_FORM_DESC_CLIENT_KEY_CONTACT_EMAIL" hint="COM_REDSCRIBBLE_FORM_LBL_CLIENT_KEY_CONTACT_EMAIL"/>
+    <field name="key_contact_postal_address" type="text" required="true" label="COM_REDSCRIBBLE_FORM_LBL_CLIENT_KEY_CONTACT_POSTAL_ADDRESS" description="COM_REDSCRIBBLE_FORM_DESC_CLIENT_KEY_CONTACT_POSTAL_ADDRESS" hint="COM_REDSCRIBBLE_FORM_LBL_CLIENT_KEY_CONTACT_POSTAL_ADDRESS"/>
+    <field name="version_note" type="text" label="JGLOBAL_FIELD_VERSION_NOTE_LABEL" description="JGLOBAL_FIELD_VERSION_NOTE_DESC" class="inputbox" size="45" labelclass="control-label"/>
+  </fieldset>
+  <fieldset name="accesscontrol">
+    <field name="asset_id" type="hidden" filter="unset"/>
+    <field name="rules" type="rules" label="JFIELD_RULES_LABEL" translate_label="false" filter="rules" validate="rules" class="inputbox" component="com_redscribble" section="client"/>
+  </fieldset>
+</form>

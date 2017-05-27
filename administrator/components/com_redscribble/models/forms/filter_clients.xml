@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<form>
+    <fields name="filter">
+        <field name="search" type="text" hint="COM_REDSCRIBBLE_SEARCH_FILTER_SUBMIT"
+               label="COM_USERS_FILTER_SEARCH_DESC"
+               class="js-stools-search-string" />
+
+        <field name="type" label="COM_REDSCRIBBLE_FORM_LBL_CLIENT_TYPE" type="list" onchange="this.form.submit();" default="COM_REDSCRIBBLE_CLIENTS_TYPE_FILTER">
+  <option value="">COM_REDSCRIBBLE_CLIENTS_TYPE_FILTER</option>
+  <option value="1">COM_REDSCRIBBLE_CLIENTS_TYPE_OPTION_1</option>
+  <option value="2">COM_REDSCRIBBLE_CLIENTS_TYPE_OPTION_2</option>
+  <option value="3">COM_REDSCRIBBLE_CLIENTS_TYPE_OPTION_3</option>
+</field>
+
+
+    </fields>
+
+    <fields name="list">
+
+        <field name="fullordering"
+               type="list"
+               label="COM_CONTENT_LIST_FULL_ORDERING"
+               description="COM_CONTENT_LIST_FULL_ORDERING_DESC"
+               onchange="this.form.submit();"
+               default="a.id DESC"
+        >
+            <option value="">JGLOBAL_SORT_BY</option>
+            <option value="a.`id` asc">ID Ascending</option><option value="a.`id` desc">ID Descending</option><option value="a.`ordering` asc">Order Ascending</option><option value="a.`ordering` desc">Order Descending</option><option value="a.`state` asc">State Ascending</option><option value="a.`state` desc">State Descending</option><option value="a.`client_name` asc">Client Ascending</option><option value="a.`client_name` desc">Client Descending</option><option value="a.`physical_address` asc">Physical Address Ascending</option><option value="a.`physical_address` desc">Physical Address Descending</option><option value="a.`billing_address` asc">Billing Address Ascending</option><option value="a.`billing_address` desc">Billing Address Descending</option><option value="a.`head_office_phone` asc">Head Office Phone Ascending</option><option value="a.`head_office_phone` desc">Head Office Phone Descending</option><option value="a.`website` asc">Website Ascending</option><option value="a.`website` desc">Website Descending</option><option value="a.`type` asc">Type Ascending</option><option value="a.`type` desc">Type Descending</option><option value="a.`key_contact_name` asc">Key Contact Name Ascending</option><option value="a.`key_contact_name` desc">Key Contact Name Descending</option><option value="a.`key_contact_ddi` asc">Key Contact DDI Ascending</option><option value="a.`key_contact_ddi` desc">Key Contact DDI Descending</option><option value="a.`key_contact_email` asc">Key Contact Email Ascending</option><option value="a.`key_contact_email` desc">Key Contact Email Descending</option><option value="a.`key_contact_postal_address` asc">Key Contact Postal Address Ascending</option><option value="a.`key_contact_postal_address` desc">Key Contact Postal Address Descending</option>
+
+        </field>
+
+        <field name="limit"
+               type="limitbox"
+               class="input-mini"
+               default="25"
+               onchange="this.form.submit();"
+        />
+
+    </fields>
+
+</form>
