@@ -16,14 +16,16 @@ $types = $model->getItems();
 
 foreach ($types as $type) {
 ?>
-	<div id="type-item-<?php echo $type->id?>" class="type-item">
+	<div id="type-item-<?php echo $type->id?>" class="type-item" onclick="open_des(<?php echo $type->id?>)">
 		<div class="type-item-inner">
 			<h3><?php echo $type->name?></h3>
 			<img src="images/<?php echo $type->intro_img?>"/>
 		</div>
 		<div id="type-description-<?php echo $type->id?>" class="type-description ">
+			
 			<div class="inner-type-description row-fluid">
-				<div class="span3 text-center">
+				<div class="span3 text-center type-icon">
+					
 					<img class="symbol-type" src="images/<?php echo $type->icon?>"/>
 					<h3><?php echo $type->name?></h3>
 				</div>
@@ -34,7 +36,7 @@ foreach ($types as $type) {
 					<br/>
 					<?php echo $type->description?>
 				</div>
-				<div class="span3">
+				<div class="span3 logo">
 					<img src="images/logo.png"/>
 				</div>
 			</div>	
@@ -46,5 +48,14 @@ foreach ($types as $type) {
  Local team. Global reach. Focused delivery
 </div>
 <div class="clearfix"></div>
-
+<script>
+	
+	function open_des(i) {
+		
+		jQuery(function($) {
+			$(".type-description").hide();
+			$("#type-description-"+i).toggle();
+		 });	
+	}
+</script>
 

@@ -113,7 +113,7 @@ else
 	
 			<!-- Header -->
 			<header class="header navbar-fixed-top" role="banner">
-				<div class="container">
+				<div class="">
 					<div class="container-inner">
 					<div class="header-inner clearfix row-fluid">
 							<div class="logo span3">
@@ -123,18 +123,19 @@ else
 										<?php echo '<div class="site-description">' . htmlspecialchars($this->params->get('sitedescription'), ENT_COMPAT, 'UTF-8') . '</div>'; ?>
 									<?php endif; ?>
 								</a>
-							</div>
-							<div class="main-menu span9">
-							<?php if ($this->countModules('position-0')) : ?>
-								<nav class="navigation" role="navigation">
-									<div class="navbar pull-left">
+								<div class="navbar pull-right">
 										<a class="btn btn-navbar collapsed" data-toggle="collapse" data-target=".nav-collapse">
-											<span class="element-invisible"><?php echo JTEXT::_('TPL_PROTOSTAR_TOGGLE_MENU'); ?></span>
+									
 											<span class="icon-bar"></span>
 											<span class="icon-bar"></span>
 											<span class="icon-bar"></span>
 										</a>
 									</div>
+							</div>
+							<div class="main-menu span9">
+							<?php if ($this->countModules('position-0')) : ?>
+								<nav class="navigation" role="navigation">
+									
 									<div class="nav-collapse">
 										<jdoc:include type="modules" name="position-0" style="none" />
 									</div>
@@ -145,8 +146,17 @@ else
 					</div>
 				</div>
 			</header>
-			<div class="container">
-				<jdoc:include type="modules" name="banner" style="xhtml" />
+			<div class="mainbanner-vid">
+				<div id="video-background">
+					<jdoc:include type="modules" name="banner" style="none" />
+				</div>
+				<div class="container bannercontent">
+					<jdoc:include type="modules" name="bannercontent" style="none" />
+					
+				  </div>
+				<div class="text-center down-scroll"> 
+				<a class="jumper scroll-down"><img src="images/down-icon.png" alt="down-arrow" class="down-banner i5"></a> 
+			  </div>
 			</div>	
 			<div id="main">
 				<div class="container">
@@ -182,13 +192,23 @@ else
 	
 	<!-- Footer -->
 	<footer class="footer" role="contentinfo">
-		<div class="container<?php echo ($params->get('fluidContainer') ? '-fluid' : ''); ?> text-center">
+		<div class="<?php echo ($params->get('fluidContainer') ? '-fluid' : ''); ?> text-center">
 			<div class="container-inner">
 				<p>Red Scribble Consultants - PO Box 153, Paraparaumu 5254, Wellington, New Zealand</p>
-				<p>T. + 64 4 974 0552 E. info@redscribble.com</p>
+				<p>T. + 64 4 974 0552 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E. info@redscribble.com</p>
 			</div>	
 		</div>
 	</footer>
 	<jdoc:include type="modules" name="debug" style="none" />
+	<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-91001085-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
 </body>
 </html>
