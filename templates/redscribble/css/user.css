@@ -111,6 +111,8 @@ div#main .container {
 	    width: 100%;
 		    text-transform: uppercase;
 			left: 0;
+			    padding: 0 15px;
+    box-sizing: border-box;
 }
 .type-item-inner > img {
     width: 100%;
