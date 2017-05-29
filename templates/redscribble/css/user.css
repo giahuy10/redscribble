@@ -315,6 +315,54 @@ span.conl {
     width: 1123px;
 }
 }
+@media (min-width: 991px) and (max-width: 1100px) {
+	.bottom-line {
+    font-size: 25px;
+
+    line-height: normal;
+}
+.itemid-101 .mainbanner-vid {
+    height: 580px;
+}
+.inner-home-box {
+    padding: 0px 6px;
+}
+}
+@media (min-width: 768px) and (max-width: 900px) {
+.itemid-101 .mainbanner-vid {
+    height: 425px;
+}
+.bottom-right {
+    text-align: right;
+    right: 50px;
+    position: absolute;
+    bottom: 25px;
+}
+h1.tagline {
+    color: #fff;
+    line-height: 60px;
+}
+.inner-home-box {
+    padding: 0;
+}
+.inner-home-box img {
+    border: 1px solid #000;
+    width: 100%;
+    height: 140px;
+}
+h2.line-1 {
+    padding: 25px 10px 10px 10px;
+}
+div#inner-banner img {
+    width: 100%;
+    height: 400px;
+}
+.bottom-line {
+    font-size: 25px;
+
+    line-height: normal;
+}
+	}
 @media (max-width: 767px) {
 	span.conl {
     color: #fff;
