@@ -112,8 +112,8 @@ else
 	<div class="body" id="top">
 	
 			<!-- Header -->
-			<header class="header navbar-fixed-top" role="banner">
-				<div class="">
+			<header class="header" role="banner">
+				
 					<div class="container-inner">
 					<div class="header-inner clearfix row-fluid">
 							<div class="logo span3">
@@ -145,7 +145,7 @@ else
 							</div>
 					</div>
 					</div>
-				</div>
+				
 			</header>
 			<?php if ($itemid == 101) {?>
 			<div class="mainbanner-vid">

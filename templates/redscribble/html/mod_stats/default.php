@@ -16,13 +16,14 @@ $types = $model->getItems();
 
 foreach ($types as $type) {
 ?>
-	<div id="type-item-<?php echo $type->id?>" class="type-item" onclick="open_des(<?php echo $type->id?>)">
-		<div class="type-item-inner">
+	<div id="type-item-<?php echo $type->id?>" class="type-item" >
+		
+		<div class="type-item-inner inactive" id="type-item-inner-<?php echo $type->id?>" onclick="open_des(<?php echo $type->id?>)">
 			<h3><?php echo $type->name?></h3>
-			<img src="images/<?php echo $type->intro_img?>"/>
+			<img src="images/<?php echo $type->intro_img?>" />
 		</div>
-		<div id="type-description-<?php echo $type->id?>" class="type-description ">
-			<div class="close" onclick="open_des(1000)">X</div>
+		<div id="type-description-<?php echo $type->id?>" class="type-description inactive">
+			<div class="close-button" onclick="close_des(<?php echo $type->id?>)">X</div>
 			<div class="inner-type-description row-fluid">
 				<div class="span3 text-center type-icon">
 					
@@ -36,17 +37,22 @@ foreach ($types as $type) {
 					<br/>
 					<?php echo $type->description?>
 				</div>
-				<div class="span3 logo">
-					<img src="images/logo.png"/>
+				<div class="span3 text-center">
+					<div class="item-logo">
+						<img src="images/logo.png"/>
+					</div>	
 				</div>
 			</div>	
 			
 		</div>	
-		<div id="type-description-1000">
-		</div>
+		
 	</div>
 <?php }?>
 
+<div id="type-item-inner-1000">
+		</div>
+		<div id="type-description-1000">
+		</div>
 <div class="bottom-line pull-left">
  Local team. Global reach. Focused delivery
 </div>
@@ -56,8 +62,26 @@ foreach ($types as $type) {
 	function open_des(i) {
 		
 		jQuery(function($) {
-			$(".type-description").hide();
-			$("#type-description-"+i).toggle();
+			
+			
+			$(".type-description").removeClass('active');
+			$(".type-item-inner").removeClass('active');
+			
+			
+			$("#type-description-"+i).toggleClass('active');
+			$("#type-item-inner-"+i).toggleClass('active');
+		 });	
+	}
+	function close_des(i) {
+		
+		jQuery(function($) {
+			
+
+			$("#type-description-"+i).toggleClass('active');
+			$("#type-item-inner-"+i).toggleClass('active');
+			
+			
+			
 		 });	
 	}
 </script>
