@@ -123,7 +123,13 @@ else
 										<?php echo '<div class="site-description">' . htmlspecialchars($this->params->get('sitedescription'), ENT_COMPAT, 'UTF-8') . '</div>'; ?>
 									<?php endif; ?>
 								</a>
-								<div class="navbar pull-right">
+								
+							</div>
+							<div class="main-menu span9">
+							<?php if ($this->countModules('position-0')) : ?>
+							
+								<nav class="navigation" role="navigation">
+									<div class="navbar pull-right">
 										<a class="btn btn-navbar collapsed" data-toggle="collapse" data-target=".nav-collapse">
 									
 											<span class="icon-bar"></span>
@@ -131,11 +137,6 @@ else
 											<span class="icon-bar"></span>
 										</a>
 									</div>
-							</div>
-							<div class="main-menu span9">
-							<?php if ($this->countModules('position-0')) : ?>
-								<nav class="navigation" role="navigation">
-									
 									<div class="nav-collapse">
 										<jdoc:include type="modules" name="position-0" style="none" />
 									</div>
@@ -206,7 +207,8 @@ else
 		<div class="<?php echo ($params->get('fluidContainer') ? '-fluid' : ''); ?> text-center">
 			<div class="container-inner">
 				<p>Red Scribble Consultants - PO Box 153, Paraparaumu 5254, Wellington, New Zealand</p>
-				<p>T. + 64 4 974 0552 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E. info@redscribble.com</p>
+				<div class="span6"><p>T. + 64 4 974 0552</p></div>
+				<div class="span6"><p>E. info@redscribble.com</p></div>
 			</div>	
 		</div>
 	</footer>
