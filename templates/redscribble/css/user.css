@@ -329,6 +329,10 @@ span.conl {
 }
 }
 @media (min-width: 768px) and (max-width: 900px) {
+		.type-item {
+    width: 50%;
+    float: left;
+}
 .itemid-101 .mainbanner-vid {
     height: 425px;
 }
