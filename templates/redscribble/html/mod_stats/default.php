@@ -22,7 +22,7 @@ foreach ($types as $type) {
 			<img src="images/<?php echo $type->intro_img?>"/>
 		</div>
 		<div id="type-description-<?php echo $type->id?>" class="type-description ">
-			
+			<div class="close" onclick="open_des(1000)">X</div>
 			<div class="inner-type-description row-fluid">
 				<div class="span3 text-center type-icon">
 					
@@ -42,8 +42,11 @@ foreach ($types as $type) {
 			</div>	
 			
 		</div>	
+		<div id="type-description-1000">
+		</div>
 	</div>
 <?php }?>
+
 <div class="bottom-line">
  Local team. Global reach. Focused delivery
 </div>

@@ -146,6 +146,7 @@ else
 					</div>
 				</div>
 			</header>
+			<?php if ($itemid == 101) {?>
 			<div class="mainbanner-vid">
 				<div id="video-background">
 					<jdoc:include type="modules" name="banner" style="none" />
@@ -155,11 +156,21 @@ else
 					
 				  </div>
 				<div class="text-center down-scroll"> 
-				<a class="jumper scroll-down"><img src="images/down-icon.png" alt="down-arrow" class="down-banner i5"></a> 
-			  </div>
+					<a class="jumper scroll-down"><img src="images/down-icon.png" alt="down-arrow" class="down-banner i5"></a> 
+				</div>
 			</div>	
+			<?php } else {?>
+				<div id="inner-banner">
+					<jdoc:include type="modules" name="banner" style="none" />
+					<div class="container inner-content">
+					<jdoc:include type="modules" name="bannercontent" style="none" />
+					
+				  </div>
+				</div>
+				
+			<?php }?>
 			<div id="main">
-				<div class="container">
+				<div class="">
 					<div class="row-fluid">
 						<?php if ($this->countModules('position-8')) : ?>
 							<!-- Begin Sidebar -->
