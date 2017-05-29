@@ -47,7 +47,7 @@ foreach ($types as $type) {
 	</div>
 <?php }?>
 
-<div class="bottom-line">
+<div class="bottom-line pull-left">
  Local team. Global reach. Focused delivery
 </div>
 <div class="clearfix"></div>

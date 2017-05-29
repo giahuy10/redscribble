@@ -364,6 +364,10 @@ div#inner-banner img {
 }
 	}
 @media (max-width: 767px) {
+	.type-item {
+    width: 100%;
+    float: left;
+}
 	span.conl {
     color: #fff;
     font-size: 12px;
