@@ -106,6 +106,7 @@ div#main .container {
     position: absolute;
     text-align: center;
     line-height: 30px;
+	font-size: 20px;
     color: #fff;
 	    width: 100%;
 		    text-transform: uppercase;
@@ -303,7 +304,7 @@ span.conl {
 }
 @media (min-width: 1200px) {
 	table.table.connect-us {
-    width: 1000px;
+    width: 1123px;
     margin: 0 auto;
 }
 	.row-fluid {
