@@ -18,33 +18,41 @@ foreach ($types as $type) {
 ?>
 	<div id="type-item-<?php echo $type->id?>" class="type-item" >
 		
-		<div class="type-item-inner inactive" id="type-item-inner-<?php echo $type->id?>" onclick="open_des(<?php echo $type->id?>)">
+		<div class="type-item-inner inactive" id="type-item-inner-<?php echo $type->id?>" data-toggle="modal" data-target="#myModal<?php echo $type->id?>">
 			<h3><?php echo $type->name?></h3>
 			<img src="images/<?php echo $type->intro_img?>" />
 		</div>
-		<div id="type-description-<?php echo $type->id?>" class="type-description inactive">
-			<div class="close-button" onclick="close_des(<?php echo $type->id?>)">X</div>
-			<div class="inner-type-description row-fluid">
-				<div class="span3 text-center type-icon">
+		<!-- Modal -->
+		<div class="modal fade" id="myModal<?php echo $type->id?>" tabindex="-1" role="dialog" aria-labelledby="myModalLabel<?php echo $type->id?>">
+		  <div class="modal-dialog" role="document">
+			<div class="modal-content">
+			 
+			  <div class="modal-body">
+			 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+				
 					
-					<img class="symbol-type" src="images/<?php echo $type->icon?>"/>
-					<h3><?php echo $type->name?></h3>
-				</div>
-				<div class="span6">
+					<img class="symbol-type pull-left" src="images/<?php echo $type->icon?>"/>
+				
 					<?php echo $type->group_name?><br/>
 					<?php echo $type->name?>
+				<div class="description-content">
+					
 					<br/>
 					<br/>
 					<?php echo $type->description?>
 				</div>
-				<div class="span3 text-center">
+				<div class="pull-right">
 					<div class="item-logo">
 						<img src="images/logo.png"/>
 					</div>	
 				</div>
-			</div>	
 			
-		</div>	
+			  </div>
+		
+			</div>
+		  </div>
+		</div>
+		
 		
 	</div>
 <?php }?>
@@ -58,7 +66,7 @@ foreach ($types as $type) {
 </div>
 <div class="clearfix"></div>
 <script>
-	
+	/*
 	function open_des(i) {
 		
 		jQuery(function($) {
@@ -83,6 +91,6 @@ foreach ($types as $type) {
 			
 			
 		 });	
-	}
+	}*/
 </script>
 

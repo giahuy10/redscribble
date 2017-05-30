@@ -208,10 +208,10 @@ else
 			<div class="container-inner">
 				<p>Red Scribble Consultants - PO Box 153, Paraparaumu 5254, Wellington, New Zealand</p>
 				<div class="row-fluid">
-				<div class="span2"></div>
-				<div class="span4"><p>T. + 64 4 974 0552</p></div>
-				<div class="span4"><p>E. info@redscribble.com</p></div>
-				<div class="span2"></div>
+				<div class="span4"></div>
+				<div class="span2"><p>T. + 64 4 974 0552</p></div>
+				<div class="span2"><p>E. info@redscribble.com</p></div>
+				<div class="span4"></div>
 				</div>
 			</div>	
 		</div>

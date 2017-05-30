@@ -77,7 +77,7 @@ main#content {
 }
 a.readmore {
     color: #c02026;
-    float: right;
+   
     display: inline-block;
     margin-top: 25px;
 }
@@ -125,13 +125,6 @@ div#main .container {
        z-index: 9990;
     padding: 0 25px;
     margin-top: 10px;
-}.close-button {
-    position: absolute;
-    right: 25px;
-    top: 0px;
-    background: #c00000;
-    color: #fff;
-    padding: 5px 10px;
 }
 
 .inner-type-description {
@@ -156,8 +149,24 @@ div#main .container {
 	display:block;
 }
 img.symbol-type {
-    width: 80px;
+    width: 38px;
+    margin-right: 10px;
 }
+.modal.fade {
+    top: -125%;
+    
+}
+.close {
+    float: right;
+    font-size: 20px;
+    font-weight: normal;
+    line-height: 20px;
+    color: #c02026;
+    text-shadow: 0 1px 0 #fff;
+    opacity: 1;
+    filter: alpha(opacity=20);
+}
+
 .type-item:hover .type-description, .type-item:hover .type-item-inner:after {
 	
 }
@@ -256,6 +265,7 @@ h1.tagline {
     top: 100px;
 	left: 0;
     text-align: center;
+	line-height: normal;
 }
 td.heading-table {
     width: 240px;
@@ -266,6 +276,7 @@ td.heading-table {
 td.heading-table img {
     width: 30px;
     margin-right: 20px;
+vertical-align: sub;
 }
 .table th, .table td {
     padding: 20px 10px;
@@ -313,12 +324,10 @@ table.table.connect-us .bottom-line {
 }
 span.conl {
     color: #fff;
-    font-size: 25px;
-    letter-spacing: 4px;
+      font-size: 15px;
+    letter-spacing: 10px;
 }
-.main-title.bottom-right b {
-    color: #c02026;
-}
+
 .inner-type-description > div {
     padding: 20px 0;
     min-height: 200px !important;
