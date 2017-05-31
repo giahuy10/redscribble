@@ -2,6 +2,13 @@
     font-family: CenturyGothicRegular;
     src: url(../fonts/CenturyGothicRegular.ttf);
 }
+@font-face {
+    font-family: CenturyGothicBold;
+    src: url(../fonts/CenturyGothicBold.ttf);
+}
+.bold {
+	font-family:'CenturyGothicBold', sans-serif;
+}
 body {
    
   
@@ -229,16 +236,15 @@ img.symbol-type {
 h1.tagline {
     color: #fff;
     line-height: 100px;
+	    font-size: 40px;
+    font-weight: 300;
 }
 .main-title {
     color: #fff;
-    font-size: 36px;
+    font-size: 37px;
     line-height: 35px;
 }
-.main-title span {
-    color: red;
-    
-}
+
 .main-title.inner {
     font-size: 60px;
 	 position: absolute;
@@ -324,10 +330,19 @@ table.table.connect-us .bottom-line {
 }
 span.conl {
     color: #fff;
-      font-size: 15px;
-    letter-spacing: 10px;
+    font-size: 15px;
+    letter-spacing: 12px;
+    text-align: right;
+    position: absolute;
+    bottom: -27px;
+    right: -12px;
 }
-
+.main-title.top-center.inner.assessnebts {
+    top: 170px;
+    right: 15px;
+    width: 70%;
+    left: initial;
+}
 .inner-type-description > div {
     padding: 20px 0;
     min-height: 200px !important;
